@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sobreirs/sobreirs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=307910&height=130&section=header" width="100%" alt="header"/>
 
-Here are some ideas to get you started:
+<h3>データエンジニア</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>Hi there! I'm <b>Matheus Sobreira</b></samp>
+
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3FA02A&size=18&center=true&vCenter=true&width=600&height=50&lines=I+am+from+Brazil+🇧🇷;I'm+a+student+in+the+Data+field;Welcome+to+my+profile!" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=307910&height=2&section=header" width="60%" alt="divider"/>
+
+<br>
+
+<samp>~ skills ~</samp>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-307910?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PostgreSQL-307910?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Databricks-307910?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Markdown-307910?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=307910&height=2&section=header" width="60%" alt="divider"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sobreirs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3FA02A&icon_color=3FA02A&text_color=c9d1d9" height="150" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobreirs&layout=compact&hide_border=true&bg_color=0d1117&title_color=3FA02A&text_color=c9d1d9" height="150" alt="Top languages"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sobreirs&label=Profile+views&color=307910&style=flat" alt="Profile views"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=307910&height=110&section=footer" width="100%" alt="footer"/>
+
+</div>
