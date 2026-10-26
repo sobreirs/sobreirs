@@ -6,11 +6,16 @@
 
 <samp>Hi there! I'm <b>Matheus Sobreira</b></samp>
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3FA02A&size=18&center=true&vCenter=true&width=600&height=50&lines=I+am+from+Brazil+🇧🇷;I'm+a+student+in+the+Data+field;Welcome+to+my+profile!" alt="Typing SVG"/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=307910&height=2&section=header" width="60%" alt="divider"/>
 
 <br>
+
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=307910&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+in+the+Data+field;Welcome+to+my+profile!" alt="Typing SVG"/>
+</div>
+
 
 <samp>~ skills ~</samp>
 
@@ -29,10 +34,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sobreirs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3FA02A&icon_color=3FA02A&text_color=c9d1d9" height="150" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobreirs&layout=compact&hide_border=true&bg_color=0d1117&title_color=3FA02A&text_color=c9d1d9" height="150" alt="Top languages"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sobreirs&label=Profile+views&color=307910&style=flat" alt="Profile views"/>
 
 <br>
 
