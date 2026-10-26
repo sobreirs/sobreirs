@@ -2,19 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=307910&height=130&section=header" width="100%" alt="header"/>
 
-<h3>データエンジニア</h3>
 
-<samp>Hi there! I'm <b>Matheus Sobreira</b></samp>
+<h3 style="color:#307910;">データエンジニア</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=307910&height=2&section=header" width="60%" alt="divider"/>
-
-<br>
+<samp>Hi there! I'm <b style="color:#307910;">Matheus Sobreira</b></samp>
 
 
 <div align="center" width="100%">
   
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=307910&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+in+the+Data+field;Welcome+to+my+profile!" alt="Typing SVG"/>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=307910&height=2&section=header" width="60%" alt="divider"/>
+
+<br>
 
 
 <samp>~ skills ~</samp>
