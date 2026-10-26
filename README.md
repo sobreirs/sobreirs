@@ -2,23 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=307910&height=130&section=header" width="100%" alt="header"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3FA02A&center=true&vCenter=true&size=26&width=600&height=50&repeat=false&lines=%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2" alt="データエンジニア"/>
 
-<h3 style="color:#307910;">データエンジニア</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3FA02A&center=true&vCenter=true&size=16&width=600&height=30&repeat=false&lines=Hi+there!+I%27m+Matheus+Sobreira" alt="Hi there! I'm Matheus Sobreira"/>
 
-<samp>Hi there! I'm <b style="color:#307910;">Matheus Sobreira</b></samp>
-
-
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=307910&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+in+the+Data+field;Welcome+to+my+profile!" alt="Typing SVG"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3FA02A&center=true&vCenter=true&size=18&width=600&height=40&lines=I+am+from+Brazil;I%27m+a+student+in+the+Data+field;Welcome+to+my+profile!" alt="Typing SVG"/>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=307910&height=2&section=header" width="60%" alt="divider"/>
 
 <br>
-
 
 <samp>~ skills ~</samp>
 
