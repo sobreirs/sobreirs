@@ -29,11 +29,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sobreirs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3FA02A&icon_color=3FA02A&text_color=c9d1d9" height="150" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobreirs&layout=compact&hide_border=true&bg_color=0d1117&title_color=3FA02A&text_color=c9d1d9" height="150" alt="Top languages"/>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=307910&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
